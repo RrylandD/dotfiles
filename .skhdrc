@@ -150,3 +150,4 @@ alt - t : yabai -m window --toggle float;\
 
 # toggle back from picture in picture mode
  shift + alt - p : yabai -m window --toggle float
+
